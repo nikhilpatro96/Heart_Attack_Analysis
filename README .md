@@ -1,4 +1,4 @@
-# heat-attack-analysis-prediction
+# Heart-attack-analysis-prediction
 The activities we carried out within the scope of the project are as follows:
 
    1. Within the scope of the project, we first made the data set ready for Exploratory Data Analysis(EDA)
